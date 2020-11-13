@@ -1,0 +1,11 @@
+name: AerosolModelling
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cartopy
+  - scikit-learn
+  - pandas
+  - jupyter
+  - seaborn
+prefix: C:\Users\Dave\anaconda3\envs\AerosolModelling
