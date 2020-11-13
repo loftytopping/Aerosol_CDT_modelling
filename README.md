@@ -3,7 +3,7 @@ A collection of practicals for the EPSRC Aerosol CDT in Aerosol and Droplets
 
 This repository contains a series of [Jupyter](https://jupyter.org) notebooks designed to practice modelling across Aerosol Sciences as part of the EPSRC funded [CDT](https://www.aerosol-cdt.ac.uk). 
 
-<img src="images/Introduction.png" width="800"/>
+<img src="images/Introduction_new.png" width="800"/>
 
 This is an envolving course, with plans for much more content to be added. Please check the project wiki page for more information on updates and planned releases should you wish to follow this repository outside of the CDT module learning environment. This project is licensed under the terms of the Creative Commons (CC) License v3.0, as provided with this repository. 
 
