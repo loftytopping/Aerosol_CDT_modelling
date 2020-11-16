@@ -88,7 +88,7 @@ Google's Colab [Co-laboratory](https://colab.research.google.com) is a great pla
 - [![Open notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/loftytopping/Aerosol_CDT_modelling/blob/master/Practical_4.ipynb)
   - Solution notebook: [![Open notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/loftytopping/Aerosol_CDT_modelling/blob/master/solutions/Practical_4.ipynb)
 #### Practical 5 - Pandas and geospatial data (Visualising PM2.5 data)
-- [![Open notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/loftytopping/Aerosol_CDT_modelling/blob/master/Practical_5.ipynb
+- [![Open notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/loftytopping/Aerosol_CDT_modelling/blob/master/Practical_5.ipynb)
   - Solution notebook: [![Open notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/loftytopping/Aerosol_CDT_modelling/blob/master/solutions/Practical_5.ipynb)
 #### Practical 6 - Pandas_data_discovery - Time series and generating statistics of PM data
 - [![Open notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/loftytopping/Aerosol_CDT_modelling/blob/master/Practical_6.ipynb)
