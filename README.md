@@ -23,7 +23,7 @@ This course has been developed with the notion that learning any programming lan
 
 ## Running the models<a name="Running"></a>
 
-If you have not used a Jupyter notebook before, I would reccomend checking out the official [webpage](https://jupyter.org/). There is also information provided in the PDF associated with each notebook. There are multiple ways you can interact with a Jupyter notebook. The most flexible way is to open and interact with them on your own computer. However you can start an instance of every notebook running in the cloud. We provide details below
+If you have not used a Jupyter notebook before, I would reccomend checking out the official [webpage](https://jupyter.org/). There are multiple ways you can interact with a Jupyter notebook. The most flexible way is to open and interact with them on your own computer. However you can start an instance of every notebook running in the cloud. We provide details below
 
 ### 2(a). Using your own machine<a name="own"></a>
 
