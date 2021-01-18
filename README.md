@@ -5,7 +5,7 @@ This repository contains a series of [Jupyter](https://jupyter.org) notebooks de
 
 <img src="images/Introduction_new.png" width="800"/>
 
-This is an envolving course, with plans for much more content to be added. Please check the project wiki page for more information on updates and planned releases should you wish to follow this repository outside of the CDT module learning environment. This project is licensed under the terms of the Creative Commons (CC) License v3.0, as provided with this repository. 
+This is an evolving course, with plans for much more content to be added. Please check the project wiki page for more information on updates and planned releases should you wish to follow this repository outside of the CDT module learning environment. This project is licensed under the terms of the Creative Commons (CC) License v3.0, as provided with this repository. 
 
 # Table of contents
 1. [Course overview](#Course-overview)
