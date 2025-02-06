@@ -1,0 +1,68 @@
+This zip file contains ASCII Grid format and GeoTIFF files, which can be used in most GIS software. 
+Pollutant-specific gridded emissions for the current NAEI year by CORINAIR SNAP sectors are included in each zip file. 
+Note that some pollutants might not contain emission maps on some sectors (not all sectors generate emissions).
+
+The sectors are labelled as follows:
+
+01energyprod - SNAP 01 (Combustion in Energy Production and Transformation)
+02nonindustcomb - SNAP 02 (Combustion in Commercial, Institutional, Residential and Agriculture)
+03industcomb - SNAP 03 (Combustion in Industry)
+04prodprocess - SNAP 04 (Production Processes)
+05offshore - SNAP 05 (Extraction and Distribution of Fossil Fuels)
+06solvents - SNAP 06 (Solvent Use)
+07roadtrans - SNAP 07 (Road Transport)
+08othertrans - SNAP 08 (Other Transport and Mobile machinery)
+09waste - SNAP 09 (Waste Treatment and Disposal)
+10agriculture - SNAP 10 (Agriculture, Forestry and Landuse Change)
+11nature - SNAP 11 (Nature)
+total - Total emissions (sum of all the grids above and point sources)
+
+----------------------------------------------
+
+The zip file also contains the point source data included in the total emissions layer. Download the Excel file from the following link to view the full timeseries of pollutants for point sources:
+
+	- https://naei.energysecurity.gov.uk/data/maps/emissions-point-sources
+
+Point sources file information:
+
+Year - The year of emissions
+PollutantID - Numeric code for the pollutant species
+Pollutant_Name - Name of the pollutant species
+PlantID	Numeric - code for the emission site
+Site - Name of the emission site
+Easting - British National Grid Easting of emission site
+Northing - British National Grid Northing of emission site
+Operator - Name of the emission site operator
+SectorID - Industrial sector of emission site. This is an NAEI classification that broadly reflects the sector primarily responsible for emissions at each site. The classification is partly based upon the 2007 Standard Industrial Classification (SIC) of the Office for National Statistics (ONS), obtainable at https://www.ons.gov.uk/methodology/classificationsandstandards/ukstandardindustrialclassificationofeconomicactivities/uksic2007.
+Sector - Our assessment of the sector that the emission site belongs to (see separate tab for further notes on sectors)
+Emission - Emission amount
+Unit - Emission unit
+Country - UK devolved region
+DataType - O = derived from operator reported emission;  M = wholly or partly modelled emission, which may be subject to significant uncertainty.
+	
+General notes:	
+- The operator name given is that which is recorded in our systems and may not be up to date/accurate for some sites, particularly in cases where data are modelled (so data type M).
+- Emissions data for each plant may cover more than one type of source but have been aggregated to avoid disclosure of sensitive or confidential data.  The source type given in each row is that which is typically responsible for the highest proportion of emissions from that plant.
+- For details of methods used to calculate these emissions see the NAEI spatial emissions methodology report at https://naei.beis.gov.uk/reports
+
+----------------------------------------------
+
+All files are derived from mapping data provided by one of the UK national mapping agencies and other organisations. 
+Downloads for Great Britain are made available and licenced under the Open Government Licence.
+
+This data is based on and include information from:
+
+	- Ordnance Survey (GB) data © Crown copyright and database right 2024
+	- Royal Mail (GB) data © Royal Mail copyright and database right 2024
+	- National Statistics (GB) data © Crown copyright and database right 2024
+
+© Crown copyright and database rights 2024 licenced under DESNZ's Public Sector Mapping Agreement with Ordnance Survey (licence No. 100037028) 
+and Defra's Public Sector Mapping Agreement with Ordnance Survey (licence No. 100022861).
+
+For Northern Ireland only: This is Crown Copyright and reproduced with the permission of Land & Property Services under delegated authority from the Controller 
+of His Majesty's Stationery Office © Crown Copyright and database right 2024 INSP594.
+
+Ordnance Survey of Northern Ireland (OSNI) branded Land & Property Services (LPS) mapping (or any mapping based on, or derived from OSNI branded mapping) is 
+exempt from the terms of the OGL.
+
+If you intend to use or re-use this information you need to apply to copyright@dfpni.gov.uk for an appropriate licence.

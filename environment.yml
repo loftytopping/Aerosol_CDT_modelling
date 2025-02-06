@@ -1,11 +1,13 @@
-name: AerosolModelling
+name: AerosolCDTModelling
 channels:
-  - conda-forge
   - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+  - https://repo.anaconda.com/pkgs/msys2
 dependencies:
-  - cartopy
-  - scikit-learn
-  - pandas
-  - jupyter
-  - seaborn
-prefix: C:\Users\Dave\anaconda3\envs\AerosolModelling
+  - conda-forge::cartopy
+  - conda-forge::contextily
+  - conda-forge::geopandas
+  - conda-forge::jupyter
+  - conda-forge::seaborn
+prefix: C:\Users\davet\anaconda3\envs\AerosolCDTModelling
