@@ -1,5 +1,5 @@
 # Aerosol_CDT_modelling
-A collection of practicals for the EPSRC Aerosol CDT in Aerosol and Droplets, 2023 edition
+A collection of practicals for the EPSRC Aerosol CDT in Aerosol and Droplets, 2025 edition
 
 This repository contains a series of [Jupyter](https://jupyter.org) notebooks designed to practice modelling across Aerosol Sciences as part of the EPSRC funded [CDT](https://www.aerosol-cdt.ac.uk). 
 
